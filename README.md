@@ -65,8 +65,20 @@ Structured into:
 - **Meta Ads provides balanced performance** between scale and efficiency  
 - **Search campaigns dominate revenue**, while **Video campaigns show strong efficiency potential**  
 - Platform–industry differences highlight **targeted optimization opportunities**
-
 ---
+## Visual Results
+
+### ROAS by Platform
+![ROAS](output/ROAS_by_platform.png)
+
+### Revenue by Campaign Type
+![Revenue](output/revenue_by_campaign_type.png)
+
+### Monthly Spend vs Revenue
+![Trends](output/monthly_spend_vs_revenue.png)
+
+### ROAS Heatmap (Industry × Platform)
+![Heatmap](output/ROAS_heatmap_industry_x_platform.png)
 
 ## Business Recommendations
 
